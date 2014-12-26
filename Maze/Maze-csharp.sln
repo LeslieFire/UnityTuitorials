@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{28890C0B-3A77-5EBD-2275-5C0A1A35B9F4}") = "fractal", "Assembly-CSharp.csproj", "{AB8245CE-E0DD-A6F1-2ADA-3D7E9BE906C9}"
+Project("{EF6CBECB-758A-180D-FC17-CB7807C26BE5}") = "Maze", "Assembly-CSharp-vs.csproj", "{203E294F-6A57-B963-05D6-83EB30201135}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AB8245CE-E0DD-A6F1-2ADA-3D7E9BE906C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB8245CE-E0DD-A6F1-2ADA-3D7E9BE906C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB8245CE-E0DD-A6F1-2ADA-3D7E9BE906C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB8245CE-E0DD-A6F1-2ADA-3D7E9BE906C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203E294F-6A57-B963-05D6-83EB30201135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203E294F-6A57-B963-05D6-83EB30201135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203E294F-6A57-B963-05D6-83EB30201135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203E294F-6A57-B963-05D6-83EB30201135}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-				GlobalSection(MonoDevelopProperties) = preSolution
+												GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

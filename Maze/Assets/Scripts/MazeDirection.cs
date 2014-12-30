@@ -50,4 +50,10 @@ public static class MazeDirections{
 			return (MazeDirection)Random.Range(0, Count);
 		}
 	}
+	public static MazeDirection GetNextClockwise(this MazeDirection direction){
+		return (MazeDirection)(((int)direction + 1)%Count);
+	}
+	public static MazeDirection GetNextCounterclockwise(this MazeDirection direction){
+		return (MazeDirection)(((int)direction + Count - 1) % Count);
+	}
 }
